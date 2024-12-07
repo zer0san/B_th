@@ -1,0 +1,26 @@
+<UI version="4.0" >
+ <class>b_cmake_thClass</class>
+ <widget class="QMainWindow" name="b_cmake_thClass" >
+  <property name="objectName" >
+   <string notr="true">b_cmake_thClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>b_cmake_th</string>
+  </property>  <widget class="QMenuBar" name="menuBar" />
+  <widget class="QToolBar" name="mainToolBar" />
+  <widget class="QWidget" name="centralWidget" />
+  <widget class="QStatusBar" name="statusBar" />
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+
+ <connections/>
+</UI>
